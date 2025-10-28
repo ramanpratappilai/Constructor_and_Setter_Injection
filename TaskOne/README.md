@@ -1,6 +1,6 @@
 Spring Boot Constructor Injection
 
-[ Spring Boot Constructor Injection Example with REST Controller ]
+[ Spring Boot Constructor Injection with REST Controller ]
 
 📘 **Overview**
 
