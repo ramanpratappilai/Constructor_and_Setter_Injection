@@ -1,4 +1,4 @@
-Spring Boot Constructor Injection Example
+Spring Boot Constructor Injection
 
 [ Spring Boot Constructor Injection Example with REST Controller ]
 
